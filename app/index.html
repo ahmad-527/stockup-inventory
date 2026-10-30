@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#123d31" />
+    <meta
+      name="description"
+      content="StockUp stockroom workflow prototype: inventory, receiving, transfers, blind counts, discrepancy review and portable records."
+    />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'"
+    />
+    <title>StockUp · Inventory workbench</title>
+    <link rel="icon" href="mark.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="ui.mjs"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to workspace</a>
+    <div id="root">
+      <main id="main" class="boot">
+        <h1>StockUp</h1>
+        <p>Opening your inventory workspace…</p>
+        <noscript
+          >Enable JavaScript to use the local inventory workspace. The original
+          case study remains available on GitHub.</noscript
+        >
+      </main>
+    </div>
+    <div id="notice" class="toast" role="status" aria-live="polite"></div>
+    <dialog id="modal" aria-labelledby="modal-title"></dialog>
+  </body>
+</html>

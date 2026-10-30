@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-30",
+  "source": "Crossref works API",
+  "searches": [
+    {
+      "query": "inventory record inaccuracy",
+      "url": "https://api.crossref.org/works?query=inventory+record+inaccuracy&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 312720,
+      "cached_response": "search-3c8a11a15df6.json"
+    },
+    {
+      "query": "inventory cycle counting",
+      "url": "https://api.crossref.org/works?query=inventory+cycle+counting&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 361294,
+      "cached_response": "search-f753085231db.json"
+    },
+    {
+      "query": "retail stock discrepancy inventory accuracy",
+      "url": "https://api.crossref.org/works?query=retail+stock+discrepancy+inventory+accuracy&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 409130,
+      "cached_response": "search-853b1d7332c7.json"
+    },
+    {
+      "query": "warehouse receiving errors human factors",
+      "url": "https://api.crossref.org/works?query=warehouse+receiving+errors+human+factors&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 3461447,
+      "cached_response": "search-a1ba413121e5.json"
+    },
+    {
+      "query": "barcode RFID inventory accuracy empirical",
+      "url": "https://api.crossref.org/works?query=barcode+RFID+inventory+accuracy+empirical&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 464313,
+      "cached_response": "search-ea385cb0f5dd.json"
+    },
+    {
+      "query": "inventory counting human error",
+      "url": "https://api.crossref.org/works?query=inventory+counting+human+error&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 2512072,
+      "cached_response": "search-1547625a5a8b.json"
+    },
+    {
+      "query": "small enterprise inventory information system usability",
+      "url": "https://api.crossref.org/works?query=small+enterprise+inventory+information+system+usability&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 4671963,
+      "cached_response": "search-e391d62f8d01.json"
+    },
+    {
+      "query": "warehouse inventory transfers traceability data integrity",
+      "url": "https://api.crossref.org/works?query=warehouse+inventory+transfers+traceability+data+integrity&rows=45&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-30&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Cis-referenced-by-count%2Clink%2Cupdate-to",
+      "retrieved": 45,
+      "total_results": 1550230,
+      "cached_response": "search-77b277de4937.json"
+    }
+  ],
+  "limitations": "Journal type and citation count are discovery signals, not review-provenance or relevance certification. Rank-limited non-systematic search; no critical reviews counted."
+}

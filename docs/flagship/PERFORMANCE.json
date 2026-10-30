@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "runtime": "v24.22.1",
+  "platform": "win32",
+  "cpu": "12th Gen Intel(R) Core(TM) i9-12900H",
+  "items": 1000,
+  "movement_rows": 10000,
+  "lab_target_ms": 500,
+  "start_count": {"samples":21,"p50_ms":186.41,"p95_ms":218.89,"max_ms":219.59},
+  "restore_validation": {"samples":21,"p50_ms":48.69,"p95_ms":74.28,"max_ms":75.59},
+  "limits": "Node core only, warm same-machine samples; no browser, IndexedDB, real-phone, cold-start or field latency claim. Reproduce with node scripts/benchmark-core.mjs."
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-30",
+  "maturity": "working workflow prototype; not a validated flagship",
+  "product_specific_critical_appraisals_completed": 2,
+  "product_specific_critical_appraisals_required": 100,
+  "qualified_hands_on_app_benchmarks_completed": 0,
+  "qualified_hands_on_app_benchmarks_required": 20,
+  "human_practitioner_validation_participants": 0,
+  "G0": "provisional job and adverse evidence recorded; demand unvalidated",
+  "G1": "open",
+  "G2": "bounded prototype definition; flagship design evaluation open",
+  "G3": "bounded functional subset checked; full acceptance gate remains open",
+  "G4": "open",
+  "G5": "working prototype publication; no validated or production claim",
+  "flagship_complete": false,
+  "metadata_candidates": 346,
+  "comparator_desk_profiles_started": 4,
+  "partial_comparator_walkthroughs": 1,
+  "automated_checks_passed": 21,
+  "responsive_page_checks": 18,
+  "csv_browser_downloaded_bytes_verified": false
+}
