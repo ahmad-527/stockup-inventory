@@ -1,0 +1,11 @@
+review_id,source_section,source_order,topic,related_use_cases,later_acceptance_proposal,verification_status
+FR-01,4.1,1,Product records,"UC-01, UC-11","Define an item identity rule; verify valid creation, duplicate identity rejection and correction of invalid fields.",proposed_not_executed
+FR-02,4.1,2,Stock quantity changes,"UC-02, UC-08, UC-12","Define movement types and quantity precision; verify receipts, issues and eligible returns reconcile to the recorded balance.",proposed_not_executed
+FR-03,4.1,3,Availability and location,UC-08,Define which availability/location states are displayed and an observable freshness target for a stated workload.,proposed_not_executed
+FR-04,4.1,4,Stock thresholds and alerts,UC-03,"Specify threshold boundaries and whether a trigger produces an alert, a draft request or an authorised order; test boundary and repeat-trigger behaviour.",proposed_not_executed
+FR-05,4.1,5,Item categories,UC-04,Define category changes and filtering; verify reclassification preserves item and movement history.,proposed_not_executed
+FR-06,4.1,6,Expiry and serial information,Wider scope; no dedicated numbered use case,"Choose item, lot and serial granularity; define required dates, uniqueness rules and unknown values before checking expiry or traceability.",proposed_not_executed
+FR-07,4.1,7,Change history,UC-05 partly overlaps; distinguish audit concepts,Specify an attributable change record and retention/correction rules; distinguish event history from a physical stock count.,proposed_not_executed
+FR-08,4.1,8,Transfers between locations,Wider scope; no dedicated numbered use case,"Define dispatch, in-transit and receipt behaviour; verify stock is conserved across locations and interrupted transfers can be resolved.",proposed_not_executed
+FR-09,4.1,9,Bulk import and export,UC-06,"Specify schema, units, error handling and export scope; check malformed rows, duplicates, interrupted imports and unsafe spreadsheet text.",proposed_not_executed
+FR-10,4.1,10,Search and filtering,No dedicated numbered use case,"Define searchable fields and filters; verify expected inclusion/exclusion, empty results and a workload-specific response target.",proposed_not_executed
